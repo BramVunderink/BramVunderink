@@ -1,4 +1,17 @@
-## Hi there 👋
+## ✨ About me
+
+Hi! I'm Bram, an aspiring Python developer with a fast-growing passion for building real-world applications. Over the past months I’ve gained hands-on experience through projects such as:
+
+
+🧠 Building Python apps (CLI, GUI & web-based)<br>
+📝 Working with virtual environments, Git & GitHub<br>
+🖥 Creating PDF generators, file processors & automation tools<br>
+🌐 Deploying web apps with Streamlit<br>
+🛠 Solving debugging challenges and learning best practices<br>
+📚 Studying APIs, data handling & web development<br>
+
+
+I’m still early in my journey, but I learn fast, thrive on problem-solving, and stay highly motivated to grow as a developer. My goals are to become a strong backend engineer, contribute to impactful projects and learn more programming languages.
 
 <!--
 **BramVunderink/BramVunderink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
