@@ -8,7 +8,7 @@ Hi! I'm Bram, an aspiring Python developer with a fast-growing passion for build
 🖥 Creating PDF generators, file processors & automation tools<br>
 🌐 Deploying web apps with Streamlit<br>
 🛠 Solving debugging challenges and learning best practices<br>
-📚 Working with APIs, data handling & LLM integrations (LangChain, Gemini)t<br>
+📚 Working with APIs, data handling & LLM integrations (LangChain, Gemini)<br>
 
 
 I’m still early in my journey, but I learn fast, thrive on problem-solving, and stay highly motivated to grow as a developer. My goals are to become a strong backend engineer, contribute to impactful projects and learn more programming languages.<br>
